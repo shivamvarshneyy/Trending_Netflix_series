@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trending_Netflix_series/static/css/main.b53dc19c.css",
+    "main.js": "/Trending_Netflix_series/static/js/main.e841c096.js",
+    "index.html": "/Trending_Netflix_series/index.html",
+    "main.b53dc19c.css.map": "/Trending_Netflix_series/static/css/main.b53dc19c.css.map",
+    "main.e841c096.js.map": "/Trending_Netflix_series/static/js/main.e841c096.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53dc19c.css",
+    "static/js/main.e841c096.js"
+  ]
+}

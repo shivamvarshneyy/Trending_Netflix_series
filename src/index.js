@@ -14,7 +14,7 @@ root.render(
       {Data.map((val, index) => {
         return (
           <Card
-            key={index}
+            key={val.id}
             imgsrc={val.imgsrc}
             title={val.title}
             name={val.name}
